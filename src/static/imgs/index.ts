@@ -1,0 +1,1 @@
+export { default as backgroundBanner } from './banner.jpg';

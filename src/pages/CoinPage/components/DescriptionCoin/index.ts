@@ -1,0 +1,1 @@
+export { DescriptionCoin } from './DescriptionCoin';
